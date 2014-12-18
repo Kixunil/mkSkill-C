@@ -13,7 +13,7 @@ We've created simple, console-based countown timer.
 Meeting #2
 ----------
 
-We learned how to make a Makefile and something about pointers
+We learned how to make a Makefile and something about pointers.
 
 About mkSkill
 -------------
